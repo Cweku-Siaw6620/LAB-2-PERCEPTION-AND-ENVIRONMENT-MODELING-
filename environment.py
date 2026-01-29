@@ -14,4 +14,4 @@ class DisasterEnvironment:
         return {
             "damage_severity": self.current_damage,
             "timestamp": time.strftime("%Y-%m-%d %H:%M:%S")
-        }git
+        }
